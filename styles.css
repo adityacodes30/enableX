@@ -1,0 +1,416 @@
+.meet
+{
+position: relative;
+margin-top: 3.5rem;
+font-family: 'Montserrat-Bold', sans-serif;
+line-height: 1.25;
+font-weight: 700;
+font-weight: 2000;
+color: whitesmoke;
+font-size: 3rem ;
+margin-bottom: 2rem;
+
+}
+
+.nav-item 
+{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    opacity: 0.6;
+    font-size: 1.22rem;
+    margin-left: 2rem;
+
+
+}
+
+.nav-item:hover
+{
+   transition: opacity 0.5s;
+    opacity: 1;
+
+}
+
+#navbarSupportedContent .navbar-nav
+{
+    position: relative;
+    /* align-items: center; */
+}
+
+.btn
+{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0% 3% 5% 0%;
+}
+
+/* negative margins also work */
+.image 
+{
+/* display: inline-block; */
+position: relative;
+height: 600px;
+right: 40px;
+top: 30px;
+
+margin-bottom: -500px;
+transform: rotate(25deg);
+
+
+
+
+}
+
+.cont
+{
+
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.container-fluid
+{ 
+    height: 50%;
+    overflow:hidden;
+}
+
+
+
+/* .col
+{
+    /* position: relative;
+    /* background-color: bisque; */
+    /* border-radius: 10px;
+    margin-right: 2%;
+    width: 22% ;
+    height: 316.8px ;
+    margin-top: 100px;
+    margin-bottom: 100px; */
+    /* left: 15%;  */
+
+
+
+
+.fa-solid
+{
+    position: relative;
+   /* display grid and placed items in center */
+    display: grid;
+    place-items: center;
+  font-size: 3.5rem;  
+color: #EC5A6E;
+opacity: 0.6;
+size: 3rem;
+transform: translateY(175%);
+
+}
+
+.fa-solid:hover
+{
+    transition-duration: 0.5ms;
+    opacity: 1;
+    
+}
+
+.titlee
+{
+  
+font-family: 'Montserrat-Bold', sans-serif;
+display: grid;
+place-items: center;
+transform: translateY(300%);
+margin-top: 3px;
+
+
+}
+
+.par
+{
+    text-align: center;
+    display: grid;
+    place-items: center;
+    padding: 17%;
+    transform: translateY(10%);
+    margin-top: 2px;
+   
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.fa-bullseye
+{
+margin-bottom: 2px;
+}
+
+
+.container2
+{
+padding: 7% 15%;
+
+}
+
+@media (max-width:990px)
+{
+.people
+{
+    display: inline-block;
+    align-items: center;
+    transform: translateX(-5%);
+}
+.ihave
+{
+    font-size: small;
+    line-height: 1;
+    
+}
+
+.row
+{
+    align-items: center;
+}
+.col-lg-4
+{
+transform: translateY(-14%);
+
+
+}
+
+.container2
+{
+    padding-bottom: 0;
+}
+.col-lg-6
+{
+display: grid;
+align-items: center;
+justify-content: center;
+transform: translateX(5%);
+
+}
+  
+.image
+{ 
+
+    position: relative;
+ 
+    margin-bottom: -250px;
+    transform: rotate(0deg);
+   
+
+}
+
+.meet
+{
+text-align: center;
+}
+
+.btn
+{
+    text-align: center;
+    align-content: center;
+}
+
+.meet
+{
+    line-height: 0.96;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+}
+
+/* set display to grid it fixed the problem */
+.row2
+{
+display: grid;
+padding-bottom: 2rem;
+}
+
+.titlee
+{
+    transform: translateY(370%);
+}
+.par
+{
+transform: translateY(23%);
+margin-bottom: 2px;
+}
+
+.images
+{
+    display: inline-block;
+    transform: translateX(4%);
+
+}
+
+
+
+}
+
+
+#container3
+{
+    background-color: #111111;
+    
+}
+
+.corgimg
+{
+    position: relative;
+    border-radius: 100%;
+    width: 4rem;
+    margin-top: 2%;
+    left: 37%;
+}
+
+.carousel-item
+{
+ 
+    
+padding: 15%;
+padding-top: 0%;
+padding-bottom: 5%;
+font-family: 'Ubuntu', sans-serif;
+color: whitesmoke;
+
+}
+
+.ihave
+{
+margin-top: 10%;
+text-align: center;
+font-weight: 800;
+font-size: 3.6rem;
+
+}
+
+span
+{
+    position: relative;
+    border-radius: 100%;
+    font-style: italic;
+    font-family: 'ubuntu', sans-serif;
+    top: .7rem;
+    left: 38%;
+
+}
+
+.images
+{
+    padding: 5% 15% ;
+
+}
+
+.col-lg-3
+{
+    padding: 20px;
+    overflow: inherit;
+}
+
+.refrences
+{
+    width: 230px;
+}
+
+#container-pricing
+{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+h1
+{
+    
+    font-family: 'Montserrat-Bold', sans-serif;
+line-height: 1.25;
+font-weight: 700;
+font-weight: 2000;
+font-size: 3.5rem;
+
+}
+
+.ptext
+{
+    margin-bottom: 8%;
+
+}
+
+p
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: larger;
+}
+
+.card-body
+{
+    padding: 0;
+}
+
+h5
+{
+    font-size: 2rem;
+}
+
+.cardin
+{
+    padding: 6%;
+}
+
+.card-text
+{
+    font-family: 'ubuntu', sans-serif;
+    opacity: 0.7;
+}
+
+.sign
+{
+    margin-top: 3%;
+}
+
+#cont-id
+{
+    padding: 7% 15%;
+    background-color: #111111;
+    text-align: center;
+
+    vertical-align: middle;
+}
+
+.find
+{
+    position: relative;
+  
+    font-family: 'Montserrat-Bold', sans-serif;
+    line-height: 1.25;
+    font-weight: 700;
+    font-weight: 2000;
+    color: whitesmoke;
+    font-size: 9vh ;
+    margin-bottom: 2rem;
+    
+
+
+}
+
+.cta-btn
+{
+size: 200%;
+
+}
+
+.cont-foot
+{
+    text-align: center;
+    padding: 10% 15%;
+}
+
+.fas 
+{
+    padding: 1.5vw;
+    font-size: 3vw;
+}
+
+.linkedin
+{
+    font-style: italic;
+    color: #000000;
+    
+}
